@@ -1,4 +1,3 @@
-"""Bai 3: send ON/OFF commands and display the smart light's replies."""
 
 import json
 

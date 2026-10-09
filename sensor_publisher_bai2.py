@@ -1,4 +1,3 @@
-"""Bai 2: simulate a temperature/humidity sensor every three seconds."""
 
 import argparse
 import json

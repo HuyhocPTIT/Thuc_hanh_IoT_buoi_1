@@ -1,4 +1,3 @@
-THUC HANH PYTHON MQTT - BUOI 1
 
 Broker: Mosquitto (hoac broker MQTT tuong thich) tai 127.0.0.1:1883 theo mac dinh.
 Neu chua co broker, tai Mosquitto tu https://mosquitto.org/download/ va khoi dong:
@@ -8,7 +7,7 @@ Chi chay code khi TcpTestSucceeded la True.
 Neu dung broker khac, dat MQTT_HOST va MQTT_PORT trong moi terminal.
 Neu broker can tai khoan, dat MQTT_USERNAME, MQTT_PASSWORD; neu can TLS, dat MQTT_TLS=1.
 
-Can Python 3 va paho-mqtt 2.x. Cai bang: py -m pip install -r requirements.txt
+Can Python 3 va paho-mqtt. Cai bang: py -m pip install -r requirements.txt
 Mo hai terminal trong thu muc nay, chay chuong trinh nhan/thiet bi truoc:
 
 Bai 1: py subscriber_bai1.py  |  py publisher_bai1.py

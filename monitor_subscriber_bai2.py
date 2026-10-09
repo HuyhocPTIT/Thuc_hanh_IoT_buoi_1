@@ -1,4 +1,3 @@
-"""Bai 2: display sensor readings and warn when thresholds are crossed."""
 
 import json
 import time

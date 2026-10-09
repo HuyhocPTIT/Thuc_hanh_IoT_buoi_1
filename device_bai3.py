@@ -1,4 +1,3 @@
-"""Bai 3: smart light that accepts ON/OFF and publishes its state."""
 
 import json
 import time
